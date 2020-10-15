@@ -1,3 +1,4 @@
-# social-proof
+# Social Proof
 
-Frontendmentor.io Challenge
+This is a challenge from Frontendmentor.io 
+Direct Link : https://romain-codes.github.io/social-proof/
